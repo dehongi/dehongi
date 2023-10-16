@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamed
 - 👀 I’m interested in open source development, Linux, and Python
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently doing Web application development using Django
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me hamed@dehongi.com
 
